@@ -1,0 +1,12 @@
+---
+title: "Hobbies"
+output: html_document
+---
+<b> Some of my favorite hobbies are: </b>
+<br>
+
+<ul>
+  <li>Singing</li>
+  <li>Dancing</li>
+  <li>Horseback Riding</li>
+</ul>

@@ -1,0 +1,10 @@
+name: "Katrell King"
+navbar:
+  title: "ECS 379 Project"
+  left:
+    - text: "Home Page"
+      href: index.html
+    - text: "Hobbies"
+      href: hobbies.html
+    - text: "Languages I Know"
+      href: languages.html

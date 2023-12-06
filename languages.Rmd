@@ -1,0 +1,12 @@
+---
+title: "Languages I Know"
+output: html_document
+---
+
+<b><i> I know all of these languages: </b></i>
+<ol>
+  <li>English</li>
+  <li>French</li>
+  <li>Spanish</li>
+</ol>
+
